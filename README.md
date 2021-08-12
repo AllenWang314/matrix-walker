@@ -52,7 +52,7 @@ We visualized the cache for three different representations of matrices: row maj
 - Use WASD to move the pointer through the array
 
 ### Deployment
-The application is deployed at <https://6851-2021.github.io/matrix-walker>.
+The application is deployed at <https://matrix-walker.allenwang314.com>.
 
 ### Codebase
 The key components for the visualization, all in the `vis` directory were
