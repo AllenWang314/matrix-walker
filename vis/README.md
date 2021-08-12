@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `yarn deploy`
 
 Build and deploy to GitHub Pages:
-https://6851-2021.github.io/matrix-walker
+https://allenwang314.github.io/matrix-walker/
 
 ### `yarn start`
 
