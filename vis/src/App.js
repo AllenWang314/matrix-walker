@@ -235,6 +235,9 @@ function App() {
           </div>
         </div>
       </div>
+      <div className="footer">
+        Made with ❤️ by AllenWang314 and quadraticmuffins, with help from the 6.851 staff
+      </div>
     </div>
   );
 }

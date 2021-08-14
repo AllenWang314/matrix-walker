@@ -49,3 +49,12 @@ h1 {
   top: 3%;
   margin-right: 4vw
 }
+
+.footer {
+  position: absolute;
+  bottom: 2vw;
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  width: 100%;
+}
