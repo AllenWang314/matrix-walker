@@ -29,6 +29,10 @@ function Help() {
           <li>Use WASD to move the pointer through the array</li>
         </ul>
 
+      <h2>More information!</h2>
+      <p>
+        For more information and results, tests on an EC2, and implementations in python checkout the repo <a href="https://github.com/AllenWang314/matrix-walker">here</a>.
+      </p>
       </Modal.Content>
       <Modal.Actions>
         <Button color='blue' onClick={() => setOpen(false)}>
