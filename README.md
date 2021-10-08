@@ -5,7 +5,7 @@ The deliverables of our project include:
 
 - code implementing a cache-oblivious $N\times N$ matrix using Hilbert and Z-indexing and their generalizations to higher dimensional tensors
 - analysis on asymptotic behavior (runtime and cache misses) of a generalized $k$ dimensional tensor version of the data structure
-- visualizing the cache and block accesses for matrix walkers in a web app (2-D only), try it out (here!)[https://matrix-walker.allenwang314.org]
+- visualizing the cache and block accesses for matrix walkers in a web app (2-D only), try it out [here!](https://matrixwalker.allenwang314.org)
 - benchmarking our implementation by comparing cache misses for various tests (see **Running** below)
 
 ## Usage: Benchmarking
